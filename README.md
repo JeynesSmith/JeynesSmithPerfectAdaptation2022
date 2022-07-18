@@ -1,4 +1,4 @@
-This repository contains the computer code (in Matlab and Singular) for all mathematical analysis, and for generating all figures, in the publication "Protein-protein complexes can undermine ultrasensitivity-dependent biological adaptation", submitted to Journal of the Royal Society Interface.
+This repository contains the computer code (in Matlab and Singular) for all mathematical analysis, and for generating all figures, in the publication "Protein-protein complexes can undermine ultrasensitivity-dependent biological adaptation", submitted for review to Journal of the Royal Society Interface.
 
 Authors: Cailan Jeynes-Smith and Robyn P. Araujo, July 2021, Queensland University of Technology, Brisbane, Australia.
 
